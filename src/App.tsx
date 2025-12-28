@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    Its my first day for auto update on vps
+    28-Dec-2025: Its my first day for auto update on vps
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
